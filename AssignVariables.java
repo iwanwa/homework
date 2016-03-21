@@ -19,5 +19,7 @@ public class AssignVariables {
         asda
 				//iwanwa
 >>>>>>> origin/master
+
+
     }
 }
