@@ -15,4 +15,4 @@ public class SumNumbersFrom1ToN {
         System.out.printf("The Sum between 1 and %d is %d.%n", num,sum);
     }
 }
-edit2
+edit21
