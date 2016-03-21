@@ -12,5 +12,6 @@ public class AssignVariables {
         float fl = 0.5f;
         double db = 0.1234567891011;
         String str = "Palo Alto, CA";
+        // iwanwa
     }
 }
