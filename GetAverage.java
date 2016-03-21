@@ -20,5 +20,8 @@ public class GetAverage {
     public static double average(double a, double b, double c) {
         double average = (a+b+c)/3;
         return average;
+        skjbd;bn
+        fvbkdjfbnd
+        fbqndfb;n
     }
 }
