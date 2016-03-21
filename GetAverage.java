@@ -23,5 +23,6 @@ public class GetAverage {
         skjbd;bn
         fvbkdjfbnd
         fbqndfb;n
+                //e kak taka
     }
 }
